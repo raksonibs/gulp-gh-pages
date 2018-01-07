@@ -1,13 +1,10 @@
 {
-  "name": "gulp-gh-pages",
-  "version": "0.5.4",
+  "name": "gulp-gh-pages-gift",
+  "version": "0.5.5",
   "description": "gulp plugin to publish contents to Github pages",
-  "repository": "shinnn/gulp-gh-pages",
+  "repository": "raksonibs/gulp-gh-pages",
   "license": "MIT",
-  "author": "Micheal Benedict <micheal@visionmasterdesigns.com> (https://github.com/rowoot)",
-  "contributors": [
-    "Shinnosuke Watanabe (https://github.com/shinnn)"
-  ],
+  "author": "Oskar Niburski (https://github.com/raksonibs)",
   "keywords": [
     "git",
     "push",
